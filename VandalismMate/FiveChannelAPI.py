@@ -91,7 +91,7 @@ def main():
     
     )
 
-    dat = instance.getDAT('swallow', 'livejupiter', '1609426799', sid=instance.sessionIdentifier_Create())
+    dat = instance.getDAT('mi', 'news4vip', '1670646031', sid=instance.sessionIdentifier_Create())
     print(dat)
 
 if __name__ == '__main__':
